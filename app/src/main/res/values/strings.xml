@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HotelBookingApp</string>
+    <string name="hotel_name">Hotel Metropolis</string>
+    <string name="book">Book</string>
+</resources>
